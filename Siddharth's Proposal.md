@@ -71,6 +71,7 @@ Basically the C programing is required for building the kernel. Ubuntu Distribut
 2. [BeagleBone AI](https://beagleboard.org/ai)
 3. [7 inch HDMI LCD Display](https://rarecomponents.com/store/1594)
 4. [Hacking and Penetration Testing with Low Power Devices](https://www.amazon.in/Hacking-Penetration-Testing-Power-Devices-ebook/dp/B00NGLLN56) written by Philip Polstra
+5. 2x [16GB Class 10 Sdcards](https://www.amazon.in/HP-MicroSD-U1-TF-Card-16GB/dp/B07DJGJ2H1) for booting the boards
 
 
 Aditional Hardware :
@@ -84,7 +85,7 @@ Aditional Hardware :
 ## Time Line
 
 |Date | MileStone
----------------------| -------------------------------
+---------------------|:-------------------------------
 | July 5 | Dicussing About the Project and resources available |
 | July 6 | Gathering the required details and the preparing to start the project |
 | July 17 | Finalizing the required hardware and all the resources required to complete the project |
@@ -106,13 +107,17 @@ I had a good knowledge on basic C, Python and Linux. I had done some certificati
 
 
 
+<p align="center">
+  <img width="460" height="300" src=Images/111.jpg>
+</p>
+<p align="center">Kali Linux in Raspberry Pi</p>
 
 
+## Benifits 
 
+By this project The Deck Linux will be compatible with latest advanced board (BeagleBone AI). This will be a portable penetration testing device which can be affortable by many students and enthusiastic persons.
 
-
-
-
+<p align="right"> - Siddharth Sharabu</p>
 
 
 
