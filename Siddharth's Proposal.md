@@ -5,7 +5,7 @@ Mentors : Dr.Philip Polstra, Vedant Pranjape, Deepak Khatri
 
 ## Status
 
-This is an full overview of My Project
+This is full overview of My Project
 
 ## Proposal 
 
