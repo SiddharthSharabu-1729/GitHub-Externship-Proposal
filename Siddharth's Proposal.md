@@ -69,17 +69,14 @@ Basically the C programing is required for building the kernel. Ubuntu Distribut
 
 1. [BeagleBone Black Wireless](https://beagleboard.org/black-wireless)
 2. [BeagleBone AI](https://beagleboard.org/ai)
-3. [7 inch HDMI LCD Display](https://rarecomponents.com/store/1594)
-4. [Hacking and Penetration Testing with Low Power Devices](https://www.amazon.in/Hacking-Penetration-Testing-Power-Devices-ebook/dp/B00NGLLN56) written by Philip Polstra
-5. 2x [16GB Class 10 Sdcards](https://www.amazon.in/HP-MicroSD-U1-TF-Card-16GB/dp/B07DJGJ2H1) for booting the boards
+3. [Hacking and Penetration Testing with Low Power Devices](https://www.amazon.in/Hacking-Penetration-Testing-Power-Devices-ebook/dp/B00NGLLN56) written by Philip Polstra
+4. 2x [16GB Class 10 Sdcards](https://www.amazon.in/HP-MicroSD-U1-TF-Card-16GB/dp/B07DJGJ2H1) for booting the boards
 
 
 Aditional Hardware :
 1. [5v 2Amp DC Adapter](https://www.electroncomponents.com/5v-2A-Adapter-SMPS-power) for powering BeagleBone Black Wireless
 2. [5v 2.5 Amp Dc Adapter](https://www.amazon.in/Lumik-Charger-Mobile-Android-Type-C/dp/B07RPJG7J6) for powering BeagleBone AI
-3. [HDMI Cable](https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-1-Pack/dp/B014I8SSD0)
-4. [Micro HDMI to HDMI Cable](https://www.amazon.in/AmazonBasics-High-Speed-Micro-HDMI-Micro-USB-Cable/dp/B014I8TVLI)
-5. [Wireless KeyBoard](https://www.reliancedigital.in/logitech-k400r-wireless-touch-keyboard/p/490929986)
+3. [Wireless KeyBoard](https://www.reliancedigital.in/logitech-k400r-wireless-touch-keyboard/p/490929986)
 
 
 ## Time Line
